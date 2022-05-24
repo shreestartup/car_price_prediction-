@@ -1,0 +1,2 @@
+ertifi==2022.5.18.1
+wincertstore==0.2
